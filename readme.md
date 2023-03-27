@@ -1,10 +1,10 @@
-<p align="left"> 👤 Olá, me chamo <strong>Mizael Pardal</strong>, mais conhecido como <strong>Myze</strong>. Estou em busca de me tornar um <strong>Software Engineer</strong>.</p>
+<p align="left"> 👤 Olá, me chamo <strong>Felipe dos Reis</strong>, mais conhecido como <strong>Carlão</strong>. Estou em busca de me tornar um <strong>Software Engineer</strong>.</p>
 
 <p align="left">💻 Tecnologias: <strong>Javascript</strong> para Web, <strong>Python</strong> para web e análise de dados, <strong>Postgres</strong> e <strong>Docker</strong>.</p>
 
 <p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, Jira, PyCharm, DataGrip, WebStorm, Bitbucket, Git, GitKraken e GitHub.</strong></p>
 <div align="center">
-  <a href="https://github.com/Myze16">
+  <a href="https://github.com/carloscfas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Myze16&theme=dark&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myze16&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Myze16&repo=github-Aluguel_de_campos_de_futebol"/>-->
