@@ -5,8 +5,8 @@
 <p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, Jira, PyCharm, DataGrip, WebStorm, Bitbucket, Git, GitKraken e GitHub.</strong></p>
 <div align="center">
   <a href="https://github.com/carloscfas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Myze16&theme=dark&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myze16&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carloscfas&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscfas&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Myze16&repo=github-Aluguel_de_campos_de_futebol"/>-->
 </div>
  
