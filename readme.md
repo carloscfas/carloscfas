@@ -1,6 +1,6 @@
 <p align="left"> 👤 Olá, me chamo <strong>Felipe dos Reis</strong>, mais conhecido como <strong>Carlão</strong>. Estou em busca de me tornar um <strong>Software Engineer</strong>.</p>
 
-<p align="left">💻 Tecnologias: <strong>Javascript</strong> para Web, <strong>Python</strong> para web e análise de dados, <strong>Postgres</strong> e <strong>Docker</strong>.</p>
+<p align="left">💻 Tecnologias: <strong>Javascript</strong> para Web, <strong>Python</strong> para web e análise de dados.
 
 <p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, Jira, PyCharm, DataGrip, WebStorm, Bitbucket, Git, GitKraken e GitHub.</strong></p>
 <div align="center">
