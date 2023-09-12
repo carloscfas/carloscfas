@@ -32,5 +32,6 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   -->
  
-  ![Snake animation](https://github.com/Myze16/Myze16/blob/output/github-contribution-grid-snake.svg)
+![image](https://github.com/carloscfas/carloscfas/assets/116311552/2a1da352-3e1c-4aa0-b918-f31cd59818b8)
+
 </div>
