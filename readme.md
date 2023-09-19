@@ -2,7 +2,7 @@
 
 <p align="left">💻 Tecnologias: <strong>Javascript</strong> para Web, <strong>Python</strong> para web e análise de dados.
 
-<p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, Jira, PyCharm, DataGrip, WebStorm, Bitbucket, Git, GitKraken e GitHub.</strong></p>
+<p align="left">🔧 Ferramentas: <strong>VS Code, Figma, Trello, Jira, PyCharm, DataGrip, WebStorm, Git e GitHub.</strong></p>
 <div align="center">
   <a href="https://github.com/carloscfas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carloscfas&theme=dark&hide_border=true"/>
