@@ -1,4 +1,4 @@
-<p align="left"> 👤 Olá, me chamo <strong>Felipe dos Reis</strong>, mais conhecido como <strong>Carlão</strong>. Estou em busca de me tornar um <strong>Software Engineer</strong>.</p>
+<p align="left"> 👤 Olá, me chamo <strong>Carlos Felipe dos Reis</strong>, mais conhecido como <strong>Carlão</strong>. Estou em busca de me tornar um <strong>Software Engineer</strong>.</p>
 
 <p align="left">💻 Tecnologias: <strong>Javascript</strong> para Web, <strong>Python</strong> para web e análise de dados..
 
