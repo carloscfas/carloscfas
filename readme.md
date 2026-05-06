@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/gallery/itachi-icon-uwu-JJwxpkv#VZ3L4yS.png" />
+  <img align="center" height="150" src="https://imgur.com/gallery/itachi-Sq58UPw#HOnhGp2.png" />
 </div>
 
 <div align="center">
