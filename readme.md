@@ -34,6 +34,7 @@
   <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloscfas&theme=aura_dark">
   <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carloscfas&theme=aura_dark">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carloscfas&theme=aura_dark"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carloscfas&theme=aura_dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
