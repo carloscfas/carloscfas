@@ -31,7 +31,7 @@
       
 <div align="center">
   <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloscfas&theme=aura_dark">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical&count_private=true](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carloscfas&theme=aura_dark">
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carloscfas&theme=aura_dark">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
 </div>
 
