@@ -17,7 +17,7 @@
 
 <div align="center" width="100%">
   
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7575&width=435&lines=Welcome+to+my+github;Hello%2C+my+name+is+Carlos+Felipe;I'm+from+Brazil;I'm+a+Software+Engineer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7575&width=435&lines=Welcome+to+my+github;Hello%2C+my+name+is+Carlos+Felipe;I'm+from+Brazil;I'm+a+Software+Engineer"/>
 </div>
 
 <br>
