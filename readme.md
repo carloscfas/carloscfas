@@ -24,6 +24,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/instagram-002222?style=for-the-badge&logo=instagram" />
+  <img src="https://img.shields.io/badge/linkedin-002222?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarlos-felipe-clarindo-dos-reis-5483b026a%2F"/>
 </div>
       
 <br>
