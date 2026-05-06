@@ -32,7 +32,7 @@
 <div align="center">
   <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloscfas&theme=aura_dark">
   <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carloscfas&theme=aura_dark">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+  <img align="center" alt="Top Language" src=""/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
